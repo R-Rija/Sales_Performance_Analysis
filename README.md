@@ -26,7 +26,7 @@ The dataset consists of:
 ✔ **Advanced Visuals** – Used scatter plots, treemaps, and bar charts for insights.  
 
 ## 📸 Dashboard Preview  
-![Sales Dashboard](https://raw.githubusercontent.com/YourGitHubUsername/YourRepoName/main/Screenshot%202025-02-21%20155536.png)
+![Sales Dashboard](https://github.com/R-Rija/Sales_Performance_Analysis/blob/main/Screenshot%202025-02-21%20155536.png)
 
 ## 📢 Conclusion  
 This project helps businesses **optimize sales strategies, identify key growth areas, and maximize profitability** using Power BI's powerful analytics capabilities.  
